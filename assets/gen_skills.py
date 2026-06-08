@@ -44,7 +44,7 @@ GROUPS = {
     ]),
     "Data": ("#F2545B", [
         ("Stats", 12, 14), ("Math", 10, 11), ("ML", 12, 12),
-        ("Neural Networks", 11, 12), ("LLM-tools", 13, 19), ("MCP", 13, 19),
+        ("Neural Networks", 11, 12), ("LLM-tools", 13, 20), ("MCP", 13, 19),
         ("Agents", 12, 19), ("Data Analysis", 14, 16),
         ("Data Engineering", 16, 19, "L"), ("System Analysis", 13, 8),
         ("MLOps", 13, 18),
@@ -55,7 +55,7 @@ GROUPS = {
 }
 
 # ---- canvas / layout ----
-W, H = 1160, 860
+W, H = 1500, 902
 L, R, T, B = 70, 70, 110, 70            # margins (T leaves room for legend)
 PW, PH = W - L - R, H - T - B           # plot area
 random.seed(42)
@@ -109,7 +109,7 @@ parts.append(f'<line x1="{CX:.0f}" y1="{PB:.0f}" x2="{CX:.0f}" y2="{py(VR):.0f}"
 # legend (two rows of four, above the plot)
 for i, (gname, (color, _)) in enumerate(GROUPS.items()):
     col, row = i % 4, i // 4
-    lx, ly = 90 + col * 255, 34 + row * 30
+    lx, ly = 110 + col * 340, 34 + row * 30
     parts.append(f'<circle cx="{lx}" cy="{ly-4:.0f}" r="7" fill="{color}"/>')
     parts.append(halo(lx + 14, ly, gname, 15, "#c9d1d9"))
 
