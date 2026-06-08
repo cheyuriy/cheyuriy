@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 860" width="1160" height="860" font-family="'Segoe UI',Verdana,sans-serif">
+<rect x="0" y="0" width="100%" height="100%" rx="16" fill="#0d1117"/>
+<rect x="70" y="110" width="510" height="340" fill="#1f6feb" fill-opacity="0.06"/>
+<rect x="580" y="110" width="510" height="340" fill="#238636" fill-opacity="0.06"/>
+<rect x="70" y="450" width="510" height="340" fill="#6e40c9" fill-opacity="0.06"/>
+<rect x="580" y="450" width="510" height="340" fill="#9e6a03" fill-opacity="0.06"/>
+<line x1="240" y1="110" x2="240" y2="790" stroke="#21262d" stroke-width="1"/>
+<line x1="70" y1="677" x2="1090" y2="677" stroke="#21262d" stroke-width="1"/>
+<line x1="325" y1="110" x2="325" y2="790" stroke="#21262d" stroke-width="1"/>
+<line x1="70" y1="620" x2="1090" y2="620" stroke="#21262d" stroke-width="1"/>
+<line x1="410" y1="110" x2="410" y2="790" stroke="#21262d" stroke-width="1"/>
+<line x1="70" y1="563" x2="1090" y2="563" stroke="#21262d" stroke-width="1"/>
+<line x1="495" y1="110" x2="495" y2="790" stroke="#21262d" stroke-width="1"/>
+<line x1="70" y1="507" x2="1090" y2="507" stroke="#21262d" stroke-width="1"/>
+<line x1="665" y1="110" x2="665" y2="790" stroke="#21262d" stroke-width="1"/>
+<line x1="70" y1="393" x2="1090" y2="393" stroke="#21262d" stroke-width="1"/>
+<line x1="750" y1="110" x2="750" y2="790" stroke="#21262d" stroke-width="1"/>
+<line x1="70" y1="337" x2="1090" y2="337" stroke="#21262d" stroke-width="1"/>
+<line x1="835" y1="110" x2="835" y2="790" stroke="#21262d" stroke-width="1"/>
+<line x1="70" y1="280" x2="1090" y2="280" stroke="#21262d" stroke-width="1"/>
+<line x1="920" y1="110" x2="920" y2="790" stroke="#21262d" stroke-width="1"/>
+<line x1="70" y1="223" x2="1090" y2="223" stroke="#21262d" stroke-width="1"/>
+<rect x="155" y="167" width="850" height="567" fill="none" stroke="#2d333b" stroke-width="1.2" stroke-dasharray="5 5"/>
+<defs><marker id="arr" markerWidth="11" markerHeight="11" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#9aa4b2"/></marker></defs>
+<line x1="70" y1="450" x2="1090" y2="450" stroke="#9aa4b2" stroke-width="2.2" marker-end="url(#arr)"/>
+<line x1="580" y1="790" x2="580" y2="110" stroke="#9aa4b2" stroke-width="2.2" marker-end="url(#arr)"/>
+<circle cx="90" cy="30" r="7" fill="#4C8DFF"/>
+<text x="104.0" y="34.0" text-anchor="start" fill="#c9d1d9" font-size="15" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Programming</text>
+<circle cx="345" cy="30" r="7" fill="#F5A623"/>
+<text x="359.0" y="34.0" text-anchor="start" fill="#c9d1d9" font-size="15" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Platforms</text>
+<circle cx="600" cy="30" r="7" fill="#2BD9D9"/>
+<text x="614.0" y="34.0" text-anchor="start" fill="#c9d1d9" font-size="15" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Infra tools</text>
+<circle cx="855" cy="30" r="7" fill="#5BD75B"/>
+<text x="869.0" y="34.0" text-anchor="start" fill="#c9d1d9" font-size="15" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >OS</text>
+<circle cx="90" cy="60" r="7" fill="#B36BFF"/>
+<text x="104.0" y="64.0" text-anchor="start" fill="#c9d1d9" font-size="15" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Databases</text>
+<circle cx="345" cy="60" r="7" fill="#E255C9"/>
+<text x="359.0" y="64.0" text-anchor="start" fill="#c9d1d9" font-size="15" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Frameworks</text>
+<circle cx="600" cy="60" r="7" fill="#F2545B"/>
+<text x="614.0" y="64.0" text-anchor="start" fill="#c9d1d9" font-size="15" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Data</text>
+<circle cx="855" cy="60" r="7" fill="#E8D44D"/>
+<text x="869.0" y="64.0" text-anchor="start" fill="#c9d1d9" font-size="15" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Other</text>
+<line x1="922.6" y1="371.7" x2="933.6" y2="383.2" stroke="#F2545B" stroke-width="1" stroke-opacity="0.5"/>
+<circle cx="1000.8" cy="265.1" r="6.5" fill="#4C8DFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="230.4" cy="684.5" r="6.5" fill="#4C8DFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="1000.8" cy="388.3" r="6.5" fill="#4C8DFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="681.7" cy="461.7" r="6.5" fill="#4C8DFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="364.2" cy="605.0" r="6.5" fill="#4C8DFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="270.5" cy="676.5" r="6.5" fill="#4C8DFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="262.4" cy="656.9" r="6.5" fill="#4C8DFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="1000.8" cy="250.4" r="6.5" fill="#4C8DFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="270.6" cy="645.8" r="6.5" fill="#4C8DFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="465.7" cy="605.6" r="6.5" fill="#4C8DFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="975.5" cy="246.1" r="6.5" fill="#F5A623" stroke="#0d1117" stroke-width="2"/>
+<circle cx="573.2" cy="516.4" r="6.5" fill="#F5A623" stroke="#0d1117" stroke-width="2"/>
+<circle cx="854.4" cy="313.0" r="6.5" fill="#F5A623" stroke="#0d1117" stroke-width="2"/>
+<circle cx="732.7" cy="376.4" r="6.5" fill="#2BD9D9" stroke="#0d1117" stroke-width="2"/>
+<circle cx="892.3" cy="390.4" r="6.5" fill="#2BD9D9" stroke="#0d1117" stroke-width="2"/>
+<circle cx="423.1" cy="585.2" r="6.5" fill="#2BD9D9" stroke="#0d1117" stroke-width="2"/>
+<circle cx="666.5" cy="436.6" r="6.5" fill="#5BD75B" stroke="#0d1117" stroke-width="2"/>
+<circle cx="744.8" cy="448.5" r="6.5" fill="#5BD75B" stroke="#0d1117" stroke-width="2"/>
+<circle cx="381.5" cy="531.6" r="6.5" fill="#5BD75B" stroke="#0d1117" stroke-width="2"/>
+<circle cx="595.4" cy="419.5" r="6.5" fill="#B36BFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="886.2" cy="406.2" r="6.5" fill="#B36BFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="780.9" cy="484.3" r="6.5" fill="#B36BFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="774.6" cy="485.9" r="6.5" fill="#B36BFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="988.0" cy="229.6" r="6.5" fill="#B36BFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="330.8" cy="623.8" r="6.5" fill="#B36BFF" stroke="#0d1117" stroke-width="2"/>
+<circle cx="659.5" cy="458.2" r="6.5" fill="#E255C9" stroke="#0d1117" stroke-width="2"/>
+<circle cx="570.1" cy="494.3" r="6.5" fill="#E255C9" stroke="#0d1117" stroke-width="2"/>
+<circle cx="713.8" cy="475.2" r="6.5" fill="#E255C9" stroke="#0d1117" stroke-width="2"/>
+<circle cx="268.5" cy="613.5" r="6.5" fill="#E255C9" stroke="#0d1117" stroke-width="2"/>
+<circle cx="523.2" cy="566.7" r="6.5" fill="#E255C9" stroke="#0d1117" stroke-width="2"/>
+<circle cx="770.8" cy="389.4" r="6.5" fill="#F2545B" stroke="#0d1117" stroke-width="2"/>
+<circle cx="624.9" cy="444.8" r="6.5" fill="#F2545B" stroke="#0d1117" stroke-width="2"/>
+<circle cx="679.6" cy="385.5" r="6.5" fill="#F2545B" stroke="#0d1117" stroke-width="2"/>
+<circle cx="653.5" cy="434.9" r="6.5" fill="#F2545B" stroke="#0d1117" stroke-width="2"/>
+<circle cx="954.7" cy="371.6" r="6.5" fill="#F2545B" stroke="#0d1117" stroke-width="2"/>
+<circle cx="950.2" cy="352.5" r="6.5" fill="#F2545B" stroke="#0d1117" stroke-width="2"/>
+<circle cx="978.5" cy="398.6" r="6.5" fill="#F2545B" stroke="#0d1117" stroke-width="2"/>
+<circle cx="841.6" cy="339.6" r="6.5" fill="#F2545B" stroke="#0d1117" stroke-width="2"/>
+<circle cx="980.1" cy="281.2" r="6.5" fill="#F2545B" stroke="#0d1117" stroke-width="2"/>
+<circle cx="485.0" cy="372.2" r="6.5" fill="#F2545B" stroke="#0d1117" stroke-width="2"/>
+<circle cx="922.6" cy="371.7" r="6.5" fill="#F2545B" stroke="#0d1117" stroke-width="2"/>
+<circle cx="371.1" cy="353.7" r="6.5" fill="#E8D44D" stroke="#0d1117" stroke-width="2"/>
+<circle cx="745.7" cy="344.6" r="6.5" fill="#E8D44D" stroke="#0d1117" stroke-width="2"/>
+<circle cx="898.6" cy="364.7" r="6.5" fill="#E8D44D" stroke="#0d1117" stroke-width="2"/>
+<text x="1013.8" y="270.9" text-anchor="start" fill="#aeccff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Python</text>
+<text x="217.4" y="688.5" text-anchor="end" fill="#aeccff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >C++</text>
+<text x="1013.8" y="388.7" text-anchor="start" fill="#aeccff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Rust</text>
+<text x="694.7" y="463.4" text-anchor="start" fill="#aeccff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >JS</text>
+<text x="351.2" y="609.0" text-anchor="end" fill="#aeccff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Haskell</text>
+<text x="257.5" y="683.5" text-anchor="end" fill="#aeccff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Go</text>
+<text x="249.4" y="665.4" text-anchor="end" fill="#aeccff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >R</text>
+<text x="1013.8" y="252.7" text-anchor="start" fill="#aeccff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >SQL</text>
+<text x="257.6" y="647.2" text-anchor="end" fill="#aeccff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Java</text>
+<text x="478.7" y="609.6" text-anchor="start" fill="#aeccff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Functional programming</text>
+<text x="962.5" y="250.1" text-anchor="end" fill="#fad79c" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >GCP</text>
+<text x="586.2" y="520.4" text-anchor="start" fill="#fad79c" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >AWS</text>
+<text x="867.4" y="317.0" text-anchor="start" fill="#fad79c" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Self-hosting</text>
+<text x="719.7" y="377.8" text-anchor="end" fill="#a0eeee" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Docker</text>
+<text x="879.3" y="394.4" text-anchor="end" fill="#a0eeee" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Git</text>
+<text x="436.1" y="589.2" text-anchor="start" fill="#a0eeee" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >CI/CD</text>
+<text x="679.5" y="440.6" text-anchor="start" fill="#b5edb5" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Linux</text>
+<text x="757.8" y="452.5" text-anchor="start" fill="#b5edb5" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Shell</text>
+<text x="368.5" y="535.6" text-anchor="end" fill="#b5edb5" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Android</text>
+<text x="582.4" y="418.9" text-anchor="end" fill="#ddbcff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Postgres</text>
+<text x="899.2" y="410.2" text-anchor="start" fill="#ddbcff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >ClickHouse</text>
+<text x="793.9" y="488.3" text-anchor="start" fill="#ddbcff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Neo4j</text>
+<text x="761.6" y="489.9" text-anchor="end" fill="#ddbcff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Redis</text>
+<text x="1001.0" y="233.6" text-anchor="start" fill="#ddbcff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >BigQuery</text>
+<text x="317.8" y="629.2" text-anchor="end" fill="#ddbcff" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Redshift</text>
+<text x="646.5" y="462.2" text-anchor="end" fill="#f2b2e7" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Vue</text>
+<text x="583.1" y="498.3" text-anchor="start" fill="#f2b2e7" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >React</text>
+<text x="700.8" y="481.6" text-anchor="end" fill="#f2b2e7" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Flask</text>
+<text x="255.5" y="611.2" text-anchor="end" fill="#f2b2e7" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Ruby on Rails</text>
+<text x="536.2" y="570.7" text-anchor="start" fill="#f2b2e7" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Warp</text>
+<text x="757.8" y="396.0" text-anchor="end" fill="#f9b2b5" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Stats</text>
+<text x="611.9" y="455.2" text-anchor="end" fill="#f9b2b5" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Math</text>
+<text x="666.6" y="389.5" text-anchor="end" fill="#f9b2b5" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >ML</text>
+<text x="640.5" y="437.1" text-anchor="end" fill="#f9b2b5" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Neural Networks</text>
+<text x="967.7" y="369.0" text-anchor="start" fill="#f9b2b5" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >LLM-tools</text>
+<text x="963.2" y="350.9" text-anchor="start" fill="#f9b2b5" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >MCP</text>
+<text x="991.5" y="406.9" text-anchor="start" fill="#f9b2b5" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Agents</text>
+<text x="854.6" y="343.6" text-anchor="start" fill="#f9b2b5" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Data Analysis</text>
+<text x="967.1" y="285.2" text-anchor="end" fill="#f9b2b5" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Data Engineering</text>
+<text x="498.0" y="376.2" text-anchor="start" fill="#f9b2b5" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >System Analysis</text>
+<text x="935.6" y="387.2" text-anchor="start" fill="#f9b2b5" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >MLOps</text>
+<text x="358.1" y="357.7" text-anchor="end" fill="#f5ecaf" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Requirements</text>
+<text x="732.7" y="348.6" text-anchor="end" fill="#f5ecaf" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >Testing</text>
+<text x="885.6" y="368.7" text-anchor="end" fill="#f5ecaf" font-size="13.5" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >API-design</text>
+<text x="76.0" y="441.0" text-anchor="start" fill="#aeb6c2" font-size="15" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >◀ long time ago</text>
+<text x="1086.0" y="441.0" text-anchor="end" fill="#aeb6c2" font-size="15" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" >everyday usage ▶</text>
+<text x="596.0" y="761.7" text-anchor="start" fill="#aeb6c2" font-size="15" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" transform="rotate(-90 596 762)">◀ touched a bit</text>
+<text x="596.0" y="138.3" text-anchor="end" fill="#aeb6c2" font-size="15" font-weight="600" style="paint-order:stroke" stroke="#0d1117" stroke-width="3.5" stroke-linejoin="round" transform="rotate(-90 596 138)">expertise ▶</text>
+</svg>
