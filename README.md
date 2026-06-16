@@ -53,6 +53,9 @@ I’m **Yury Cheremushkin** _aka **cheyuriy**_. I don’t like putting myself in
   <a href="https://github.com/cheyuriy/morpher">
     <img src="https://github-readme-stats-ten-sigma-60.vercel.app/api/pin/?username=cheyuriy&repo=morpher&theme=tokyonight&show_owner=false" alt="bq-assist"/>
   </a>
+  <a href="https://github.com/cheyuriy/gcs2bq">
+    <img src="https://github-readme-stats-ten-sigma-60.vercel.app/api/pin/?username=cheyuriy&repo=gcs2bq&theme=tokyonight&show_owner=false" alt="bq-assist"/>
+  </a>
 </p>
 
 ## ✍️ Writing & posts
